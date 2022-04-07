@@ -10,7 +10,7 @@
   "SYMBOL": "PoB",
   "MAX_SUPPLY": 4200,
   "WEI_COST": 42000000000000000,
-  "DISPLAY_COST": 0.042,
+  "DISPLAY_COST": 0.0421,
   "GAS_LIMIT": 200000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/projectsandlot",
